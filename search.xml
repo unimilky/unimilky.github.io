@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>使用github-pages创建博客.</title>
+    <url>/2024/11/02/create-blog/</url>
+    <content><![CDATA[<p>参考 <a href="https://mini-pi.github.io/2024/02/28/how-to-make-blog-wedsite/">https://mini-pi.github.io/2024/02/28/how-to-make-blog-wedsite/</a><br>主要修改以下两个地方:</p>
+<ul>
+<li>主题代码库改为: <blockquote>
+<p>git clone <a href="https://github.com/theme-next/hexo-theme-next">https://github.com/theme-next/hexo-theme-next</a> themes&#x2F;next</p>
+</blockquote>
+</li>
+<li>deploy部属改为通过ssh链接<blockquote>
+<p>repo: <a href="mailto:&#103;&#105;&#116;&#64;&#x67;&#105;&#x74;&#x68;&#x75;&#x62;&#x2e;&#99;&#x6f;&#x6d;">&#103;&#105;&#116;&#64;&#x67;&#105;&#x74;&#x68;&#x75;&#x62;&#x2e;&#99;&#x6f;&#x6d;</a>:YourGitHubUsername&#x2F;YourRepoName.git</p>
+</blockquote>
+<span id="more"></span></li>
+</ul>
+]]></content>
+  </entry>
+</search>
